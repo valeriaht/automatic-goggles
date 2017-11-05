@@ -4,3 +4,4 @@ User-agent: *
 Disallow:
 # Line added to demonstrate the usage of git pull
 # Line added to demonstrate the usage of fit push
+# Line added to demonstrate the usage of ssh protocol
